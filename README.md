@@ -1,4 +1,4 @@
-# 🛡 Smart Network Scanner v5.2
+# 🛡 Smart Network Scanner v1.1
 
 A Python-based GUI tool that scans a target host for open TCP/UDP ports, analyzes the risk level of each discovered service, and generates detailed vulnerability reports (TXT, HTML, and PDF).
 
